@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+fake_headers==1.0.2
+openpyxl==3.0.9
+Pillow==9.2.0
+requests==2.27.1
